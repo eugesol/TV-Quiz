@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(241, 190, 171);
+}
+
+.btn{
+    background-color: #64edcb;
+    color: black
+}
+
+.card-title{
+    text-decoration: underline;
+}
